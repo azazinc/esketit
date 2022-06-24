@@ -1,1 +1,8 @@
 Update-Log:
+Misc:
+-recoded prediction
+-recoded logs
+-recoded WriteUserCmdDeltaToBuffer [from nemesis]
+Rage:
+-recoded resolver [from otv4]
+-recoded animation fix [from otv4]
